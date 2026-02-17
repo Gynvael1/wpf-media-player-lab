@@ -34,12 +34,12 @@
 | `MyVideoBlock.xaml` | Пользовательский элемент для отображения видео |
 | `MyVideoBlock.xaml.cs` | Логика пользовательского элемента |
 | `App.config` | Конфигурация приложения |
-| `wpf-media-player-lab.csproj` | Файл проекта Visual Studio |
+| `RPM_LR11.csproj` | Файл проекта Visual Studio |
 
 ---
 
 ## ▶️ Запуск проекта
-1. Откройте файл **wpf-media-player-lab.sln** в **Visual Studio**.  
+1. Откройте решение (.sln) данного проекта в Visual Studio.
 2. Убедитесь, что установлен **.NET Framework 4.7.2** или выше.  
 3. Соберите проект (**Build → Build Solution**).  
 4. Запустите приложение (**F5** или **Debug → Start Debugging**).
